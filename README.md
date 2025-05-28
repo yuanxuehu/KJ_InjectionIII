@@ -12,4 +12,4 @@ InjectionIII正确使用姿势
 [[NSBundle bundleWithPath:@"/Applications/InjectionIII.app/Contents/Resources/iOSInjection.bundle"] load];
 #endif
 ```
-## [高亮并点击跳转](https://www.baidu.com)
+## [InjectionIII官网](https://github.com/johnno1962/InjectionIII)
